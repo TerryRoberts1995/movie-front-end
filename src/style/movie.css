@@ -1,0 +1,28 @@
+.movie-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: "Poppins", sans-serif;
+}
+.title-wrapper {
+    display: flex;
+    align-items: center;
+}
+
+.title-id {
+    padding: 10px;
+}
+
+.critic-info {
+    display: flex;
+    justify-content: space-around;
+}
+.rating {
+    margin-right: 10px;
+}
+.movie-meta-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
